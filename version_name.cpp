@@ -5,6 +5,7 @@
 #include <link.h>
 #include <dlfcn.h>
 
+
 using namespace modloader;
 
 THook(std::string, _ZN6Common22getServerVersionStringB5cxx11Ev) {
